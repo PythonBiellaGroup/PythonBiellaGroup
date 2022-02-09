@@ -4,7 +4,7 @@
 
 Community Italiana di origine Biellese che si pone l'obiettivo di studiare e apprendere l'omonimo linguaggio di programmazione in tutte le sue accezioni.
 
-Facciamo un meetup online ogni lunedì sera parlando, discutendo e convidendo quello che scopriamo studiando Python.
+Facciamo un meetup online ogni settimana parlando, discutendo e convidendo quello che scopriamo studiando Python.
 
 Per interagire con noi puoi trovarci su questi canali
 
